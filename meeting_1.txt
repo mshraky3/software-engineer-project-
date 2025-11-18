@@ -15,4 +15,5 @@ project  ideas
 4. Secure Cross-Border Financial Network for Banks  
 
 
-Chosen because 2 of the 3 group members voted for it. It has clear and strong system modeling potential 
+
+4  is Chosen because 2 of the 3 group members voted for it. It has clear and strong system modeling potential 
